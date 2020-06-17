@@ -44,4 +44,5 @@ BTEC National Diploma in Sports Studies
 
 ## Hobbies
 
-I do Scottish Country Dancing, follow various sports and enjoy continuing to learn programming. I'm also trying to learn Hungarian.
+I do Scottish Country Dancing, follow various sports and enjoy continuing to learn programming. I have had some wonderful opportunities through the dancing including participating at the Patron's Lunch! I'm also trying to learn Hungarian.
+ 
