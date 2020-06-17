@@ -1,6 +1,6 @@
 ## Catriona Bennett
 
-Having spent over 16 years in retail it was time for a change of direction. Having already done some work with HTML (self taught), I used to look after 3 websites! Two were originally in word and I redid both in HTML. The third was redone by someone else and I learnt a lot from seeing their code and that helped me improve the ones I was working on. This combined with me being thorough in my work led to a close friend suggesting programming. I started to teach myself C# and then quickly moved to Python to get a better understanding of coding. I found I was really enjoying it and in particular seeing the end result! I knew this would be a good job to do going forwards and that's how I ended up at Makers Academy. My preference is for front end as seeing the end result is really what motivates me!
+Having spent over 16 years in retail it was time for a change of direction. Having already done some work with HTML (self taught), I used to look after 3 websites! Two were originally in word and I redid both in HTML. The third was redone by someone else and I learnt a lot from seeing their code and that helped me improve the ones I was working on. This combined with me being thorough in my work led to a close friend suggesting programming. I started to teach myself C# and then quickly moved to Python to get a better understanding of coding. I found I was really enjoying it and in particular seeing the end result! I knew this would be a good job to do going forwards and that's how I ended up at Makers Academy. Originally I thought my preference would be for frontend but as the course has gone on, I've realised just how much I enjoy doing the logic etc, so now it's backend that I prefer!
 
 ## Skills
 
@@ -30,8 +30,8 @@ BTEC National Diploma in Sports Studies
 
 #### Other qualifications
 
-Through Tesco I gained an Intermediate Level Apprenticeship in Retail
-In 2011 I completed my teaching certificate with the Royal Scottish Country Dance Society
+- Through Tesco I gained an Intermediate Level Apprenticeship in Retail
+- In 2011 I completed my teaching certificate with the Royal Scottish Country Dance Society
 
 ## Experience
 
