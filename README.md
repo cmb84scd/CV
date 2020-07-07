@@ -20,6 +20,11 @@ I'm very adaptable and during my time at Tesco, one minute I could be doing my w
 
 #### Makers Academy (March 2020 to July 2020)
 
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Sinatra, Rails, JavaScript, MERN
+- RSpec, Capybara, Jasmine, Jest, Cypress
+
 #### Nescot (September 2000 to June 2002)
 
 BTEC National Diploma in Sports Studies
@@ -35,7 +40,7 @@ BTEC National Diploma in Sports Studies
 
 ## Experience
 
-**The Best Connection** (24 September 2019 to current)    
+**The Best Connection** (24 September 2019 to 20 March 2020)    
 *Retail assistant (agency staff)*
 
 **Tesco** (21 March 2003 to 11 May 2019)   
