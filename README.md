@@ -16,6 +16,14 @@ Being in Stock Control I worked in small team but we had to work together as oth
 
 I'm very adaptable and during my time at Tesco, one minute I could be doing my work and the next having to help out on another department. After leaving Tesco, I did temp work and never knew from one week to the next what I'd be doing.
 
+## Projects
+
+| Info | Link | Tech |
+| --- | --- | --- |
+| Final group project at Makers and is to help with the organisation of tea parties | [github repo](https://github.com/Tracht/charity-apr2020) | MERN |
+| Second group project at Makers. A clone of Facebook | [deployed site](https://acebook-honeybunnies.herokuapp.com/) | Ruby, Rails, Rspec, Capybara, Psql |
+| A maze game made before starting at Makers | [Mazee](https://github.com/cmb84scd/Mazee) | Python, pygame |
+
 ## Education
 
 #### Makers Academy (March 2020 to July 2020)
