@@ -64,11 +64,11 @@ I have used the following tech, some of which I am more familiar with than other
   
 ## Projects
 
-| Info | Link | Tech |
+| Repo/Deployed site | Info | Tech |
 | --- | --- | --- |
-| Final group project at Makers and is to help with the organisation of tea parties | [github repo](https://github.com/Tracht/charity-apr2020) | MERN |
-| Second group project at Makers. A clone of Facebook | [deployed site](https://acebook-honeybunnies.herokuapp.com/) | Ruby, Rails, Rspec, Capybara, Psql |
-| A maze game made before starting at Makers | [Mazee](https://github.com/cmb84scd/Mazee) | Python, pygame |
+| [Cuppa Team](https://github.com/Tracht/charity-apr2020) | Final group project at Makers and is to help with the organisation of tea parties | MERN, Jest, Cypress |
+| [Acebook-HoneyBunnies](https://acebook-honeybunnies.herokuapp.com/) | Second group project at Makers. A clone of Facebook | Ruby, Rails, Rspec, Capybara, Psql |
+| [Mazee](https://github.com/cmb84scd/Mazee) | A maze game I made before starting at Makers | Python, pygame |
 
 ## Education
 
