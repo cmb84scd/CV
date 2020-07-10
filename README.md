@@ -1,6 +1,6 @@
 ## Catriona Bennett
 
-Having spent over 16 years in retail it was time for a change of direction. Having already done some work with HTML (self taught), I used to look after 3 websites! Two were originally in word and I redid both in HTML. The third was redone by someone else and I learnt a lot from seeing their code and that helped me improve the ones I was working on. This combined with me being thorough in my work led to a close friend suggesting programming. I started to teach myself C# and then quickly moved to Python to get a better understanding of coding. I found I was really enjoying it and in particular seeing the end result! I knew this would be a good job to do going forwards and that's how I ended up at Makers Academy. Originally I thought my preference would be for frontend but as the course has gone on, I've realised just how much I enjoy doing the logic etc, so now it's backend that I prefer!
+Having spent over 16 years in retail it was time for a change of direction. Having already done some work with HTML (self taught), I used to look after 3 websites. This combined with me being thorough in my work led to a close friend suggesting programming. I started to teach myself C# and then quickly moved to Python to get a better understanding of coding. I found I was really enjoying it and in particular seeing the code working! I knew this would be a good job to do going forwards and that's how I ended up at Makers Academy. Originally I thought my preference would be for frontend but as the course has gone on, I've realised just how much I enjoy doing the logic etc, so now it's backend that I prefer!
 
 ## Skills
 
@@ -10,12 +10,58 @@ Through my time in Stock Control at Tesco and being secretary of two clubs at th
 
 #### Good team worker
 
-Being in Stock Control I worked in small team but we had to work together as otherwise we wouldn't get everything done! I was my manager's right hand person for several years and quite often if my colleagues had a problem, they would come to me for help rather than my manager!
+Being in Stock Control I worked in a small team but we had to work together as otherwise we wouldn't get everything done! I was my manager's right hand person for several years and quite often if my colleagues had a problem, they would come to me for help rather than my manager!
 
 #### Adaptable
 
 I'm very adaptable and during my time at Tesco, one minute I could be doing my work and the next having to help out on another department. After leaving Tesco, I did temp work and never knew from one week to the next what I'd be doing.
 
+### Website work
+
+As I previously mentioned, I used to look after 3 websites and these belonged to 3 different dance groups. In each case I took them over from someone else, so they were already established and I just had to keep them up to date. 2 of the websites were originally in word and I redid both in HTML, though not at the same time! The third was redone by someone else and I learnt a lot from seeing their code, which helped me improve the ones I was working on. In redoing 2 of the websites I discovered just how much extra stuff Word adds to a document that isn't needed. I'd already stripped a load out of the first site I was redoing, when I saw what had been done on the third one and realised I could take out even more. So I went back to the first one and did just that! The two that I redid were just very basic HTML and CSS, which I learnt as I went along.
+
+## Tech knowledge
+I have used the following tech, some of which I am more familiar with than others.
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <li>Ruby</li>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>HTML</li>
+        <li>CSS</li>
+      </td>
+      <td>
+        <li>Rails</li>
+        <li>Sinatra</li>
+        <li>Node JS</li>
+        <li>Express</li>
+        <li>jQuery</li>
+        <li>React</li>
+        <li>PostgresSQL</li>
+        <li>MongoDB</li>
+        <li>TravisCI</li>
+        <li>Heroku</li>
+      </td>
+      <td>
+        <li>Rspec</li>
+        <li>Capybara</li>
+        <li>Jasmine</li>
+        <li>Ruby</li>
+        <li>Jest</li>
+        <li>Cypress</li>
+      </td>
+  </tbody>
+</table>
+  
 ## Projects
 
 | Info | Link | Tech |
