@@ -33,29 +33,33 @@ I'm very adaptable and during my time at Tesco, one minute I could be doing my w
 - Ruby, Sinatra, Rails, JavaScript, MERN
 - RSpec, Capybara, Jasmine, Jest, Cypress
 
+#### Apprenticeship (September 2013 - November 2014)
+
+Through Tesco (City & Guilds) I gained an Intermediate Level Apprenticeship in Retail (Level 2)
+
 #### Nescot (September 2000 to June 2002)
 
 BTEC National Diploma in Sports Studies
 
-#### GCSEs
-
-5 at grade B, 5 at grade C and 1 at grade D
-
 #### Other qualifications
 
-- Through Tesco I gained an Intermediate Level Apprenticeship in Retail
 - In 2011 I completed my teaching certificate with the Royal Scottish Country Dance Society
 
 ## Experience
 
-**The Best Connection** (24 September 2019 to 20 March 2020)    
+**The Best Connection** (September 2019 to March 2020)    
 *Retail assistant (agency staff)*
 
-**Tesco** (21 March 2003 to 11 May 2019)   
+**Dance Teacher** (September 2011 - present)
+- For the first 2 years I would take a Scottish Dance class if the regular teacher was unavailable for any reason. In September 2013 I took over the beginners class and taught it every week that it ran, until December 2018 when the classes merged. While teaching this class, and since then, I occasionally take evenings for other clubs.
+- It should be noted in all cases I am teaching adults and if children are present, their parents/guardians are also present.
+
+**Tesco** (March 2003 to May 2019)   
 *Stock Controller*  
-- I used a PDA to my job and invariably I was the one that ended up fixing them if they went wrong. When we had new PDAs delivered I showed my colleagues how to use them and I also helped them to put staff apps onto their phones.
+- I used a Personal Digital Assistant (PDA) to do my job and invariably I was the one that ended up fixing them if they went wrong. Usually this just entailed me doing different types of reboots and if these different work, then I would report them by phoning helpdesk so that could be swapped out. When we had new PDAs delivered I showed my colleagues how to use them and I also helped them to put staff apps onto their phones.
+- My job involved counting stock, cubing products, printing missing shelf edge labels, re-merchandising where necessary, mapping and investigating stock levels. So essentially I was trouble shooting internal hardware to manage stock and supporting the use of internal hardware.
+- I would also step into team leader / manager roles when required.
 
 ## Hobbies
 
 I do Scottish Country Dancing, follow various sports and enjoy continuing to learn programming. I have had some wonderful opportunities through the dancing including participating at the Patron's Lunch! I'm also trying to learn Hungarian.
- 
