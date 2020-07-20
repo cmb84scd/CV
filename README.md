@@ -8,6 +8,7 @@ Having spent over 16 years in retail it was time for a change of direction. Havi
 
 [![skills](https://img.shields.io/badge/-Skills-blueviolet?style=for-the-badge)](#skills)
 [![tech](https://img.shields.io/badge/-Tech_knowledge-blueviolet?style=for-the-badge)](#tech-knowledge)
+[![projects](https://img.shields.io/badge/-Projects-blueviolet?style=for-the-badge)](#projects)
 [![education](https://img.shields.io/badge/-Education-blueviolet?style=for-the-badge)](#education)
 [![experience](https://img.shields.io/badge/-Experience-blueviolet?style=for-the-badge)](#experience)
 [![hobbies](https://img.shields.io/badge/-Hobbies-blueviolet?style=for-the-badge)](#hobbies)
