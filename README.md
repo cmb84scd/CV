@@ -4,10 +4,18 @@ Having spent over 16 years in retail it was time for a change of direction. Havi
 
 <div align="center">
 
+### Navigate
+
+[![skills](https://img.shields.io/badge/-Skills-blueviolet?style=for-the-badge)](#skills)
+[![tech](https://img.shields.io/badge/-Tech-blueviolet?style=for-the-badge)](#tech)
+[![education](https://img.shields.io/badge/-Education-blueviolet?style=for-the-badge)](#education)
+[![experience](https://img.shields.io/badge/-Experience-blueviolet?style=for-the-badge)](#experience)
+[![hobbies](https://img.shields.io/badge/-Hobbies-blueviolet?style=for-the-badge)](#hobbies)
+
 ### Links
 
-[![LinkedIn Profile]](https://www.linkedin.com/in/catriona-bennett-1089b31ab/)
-[![Twitter Profile]](https://twitter.com/cmb84scd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/catriona-bennett-1089b31ab/)
+[![Twitter Profile](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cmb84scd)
 
 </div>
 
@@ -70,7 +78,7 @@ I have used the following tech, some of which I am more familiar with than other
       </td>
   </tbody>
 </table>
-  
+
 ## Projects
 
 | Repo/Deployed site | Info | Tech |
