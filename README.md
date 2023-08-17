@@ -100,9 +100,9 @@ I have used the following tech:
 
 ## Experience
 
-**Dunelm** (April 2021 - present)
-*Site Reliability Engineer*
-Tech used: AWS, DataDog, Python, Typescript, Bash, Terraform, Git
+**Dunelm** (April 2021 - present)  
+*Site Reliability Engineer*  
+**AWS, DataDog, Python, Typescript, Bash, Terraform, Git**
 - Developed and maintained automated tools to streamline processes, improving efficiency and reducing manual workload.
 - Investigated and resolved incidents and issues promptly, minimizing downtime and ensuring seamless operations.
 - Provided support to cross-functional teams in implementing reliability measures for their services, contributing to enhanced performance and resilience.
@@ -120,10 +120,10 @@ Tech used: AWS, DataDog, Python, Typescript, Bash, Terraform, Git
 - Demonstrated versatility by occasionally leading sessions for other dance clubs.
 - Contributed to the growth and development of participants through engaging and effective instructional techniques.
 
-**The Best Connection** (September 2019 to March 2020)    
+**The Best Connection** (September 2019 to March 2020)  
 *Retail assistant (agency staff)*
 
-**Tesco** (March 2003 to May 2019)   
+**Tesco** (March 2003 to May 2019)  
 *Stock Controller*  
 - Troubleshooting internal hardware for stock management to ensure accurate inventory tracking, ordering, and replenishment.
 - Demonstrated expertise in using Personal Digital Assistants (PDAs) for efficient stock control operations, including resolving technical issues and providing training to colleagues on PDA usage.
