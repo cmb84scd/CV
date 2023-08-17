@@ -54,7 +54,7 @@ I have used the following tech:
         <li>Ruby</li>
         <li>Python</li>
         <li>JavaScript</li>
-        <li>Typescript</li>
+        <li>TypeScript</li>
         <li>Bash</li>
         <li>Terraform</li>
         <li>HTML</li>
